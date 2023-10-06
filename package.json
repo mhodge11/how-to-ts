@@ -1,0 +1,14 @@
+{
+  "name": "understanding-ts",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "compile": "tsc",
+    "compile:watch": "tsc -w",
+    "start": "lite-server"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
